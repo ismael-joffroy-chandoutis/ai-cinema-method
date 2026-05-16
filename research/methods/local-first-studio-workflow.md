@@ -184,7 +184,7 @@ As of May 2026: Strada Connect basic functionality is free. Paid tier is eight d
 
 ### Direct-attached scratch for active editing
 
-When the MacBook Pro M5 Max sits down for a session of color grading or fine editing, the timeline media should be on a direct-attached Thunderbolt 5 NVMe enclosure, not on either storage tier. The latency and throughput difference matters when scrubbing 4K ProRes 422 HQ or BRAW 6K.
+The MacBook Pro M5 Max (released by Apple in March 2026) provides three Thunderbolt 5 ports at 120 Gbps each, native TB5 controllers, and up to 128 GB of unified memory. For a session of color grading or fine editing, the timeline media should be on a direct-attached Thunderbolt 5 NVMe enclosure, not on either storage tier. The latency and throughput difference matters when scrubbing 4K ProRes 422 HQ or BRAW 6K.
 
 Target hardware: **OWC Express 4M2 Ultra**, four-slot NVMe M.2 2280/2242 enclosure, Thunderbolt 5, sustained 6,622 MB/s in RAID 0 with PCIe 4.0/5.0 drives. Up to 32 TB capacity per unit (4× 8 TB max per slot). Daisy-chain expandable to 128 TB. Two Thunderbolt 5 ports. Compatible with TB4/USB4 (3,200 MB/s) and TB3 (2,800 MB/s) at reduced speeds. Comes with SoftRAID Premium (3 years) for RAID 0/1/4/5/10/JBOD configuration.
 
@@ -330,7 +330,7 @@ The LTO-8 addition becomes pertinent when a project is delivered. The OWC Mercur
 | MikroTik 10 GbE switch | 199 € | 0 |
 | 2× NVMe cache for Ugreen NAS (2 TB each) | 250 € | 0 |
 | 2× USB-C to 10 GbE adapter (OWC) | 200 € | 0 |
-| OWC Express 4M2 Ultra TB5 + 4× 2 TB NVMe (Q3 2026) | 1,400 € | 0 |
+| OWC Express 4M2 Ultra TB5 + 4× 2 TB NVMe (orderable now, MBP M5 Max already shipped March 2026) | 1,400 € | 0 |
 | Strada Connect subscription | 0 | ~100 €/year (paid tier with all collaborators) |
 | Cloudflare R2 (196 GB current, growing) | 0 | ~50 €/year storage |
 | OWC Mercury Pro LTO-8 (future, claimed as production cost) | ~4,500 € | ~60 € per 12 TB tape |

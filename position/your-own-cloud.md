@@ -160,7 +160,7 @@ The technical description of the architecture lives in a [separate document in t
 
 Storage is dormant by default. Two tiers: a *hot tier* (the QNAP TS-453BT3, attached by Thunderbolt 3 to the Mac Mini, holding the current working rushes) and a *cold tier* (the Ugreen DXP8800 Pro on the 10 GbE network, holding archives and delivered masters). Most of the time both are doing nothing, drawing minimal power, waiting. The active compute is on the Mac Mini M4 that sits next to them. The Mini is the *server*: it runs Strada Agent, which exposes both volumes as virtual drives accessible from anywhere on the open internet, peer-to-peer, encrypted, generating ephemeral files on the fly so that a collaborator in Los Angeles can open a BRAW clip in DaVinci Resolve as if it were a file on their own SSD.
 
-Local editing happens on Thunderbolt 5 direct-attached NVMe. When the MacBook Pro M5 Max sits down for an editing session, the active timeline media is on a 6,600 megabyte per second NVMe enclosure plugged into the Thunderbolt 5 port. The NAS is for the rest. The scratch is for the now.
+Local editing happens on Thunderbolt 5 direct-attached NVMe. The MacBook Pro M5 Max (shipped by Apple in March 2026) gives me three Thunderbolt 5 ports per machine at 120 Gbps each. When the editing session begins, the active timeline media is on a 6,600 megabyte per second NVMe enclosure plugged into one of those TB5 ports. The NAS is for the rest. The scratch is for the now.
 
 The studio network is ten-gigabit. A two-hundred-euro MikroTik switch connects the Mac Mini, the two MacBook Pros, the NAS, and the GPU PC into a fabric where everything moves at the speed of local memory. This is the single most important upgrade. Without it, every other piece of hardware in the studio is running at one tenth of its capacity.
 
@@ -204,7 +204,7 @@ I am installing Strada Agent on the Mac Mini and exposing both volumes through i
 
 I am keeping Cloudflare R2 as backup. I am not deleting the existing infrastructure. The 3-2-1 backup is non-negotiable, and R2 plays the *survival* role, not the *access* role. The architecture is additive, not subtractive.
 
-I am ordering the OWC Express 4M2 Ultra Thunderbolt 5 enclosure when the new MacBook Pro M5 Max ships, with the understanding that this is the scratch disk for active editing, not a replacement for the NAS.
+I am ordering the OWC Express 4M2 Ultra Thunderbolt 5 enclosure now that the MacBook Pro M5 Max is in hand, with the understanding that this is the scratch disk for active editing, not a replacement for the NAS. The next decision point is the Mac Studio M5 Ultra, expected in October 2026: if it makes architectural sense to upgrade the Mac Mini server role to a Mac Studio M5 Ultra by then, I will, but only if the throughput gain on Strada serving justifies the cost.
 
 I am budgeting an OWC Mercury Pro LTO tape system for the next CNC funded film. Sixty euros per twelve-terabyte tape, thirty-year shelf life, claimable as production cost. The only archive medium I trust.
 
@@ -214,7 +214,7 @@ I am not changing anything about the local AI inference stack. ComfyUI, Pinokio,
 
 ### What this is, and what it is not
 
-This is not a recommendation. I am writing about my own practice, in my own conditions, with my own constraints. I have a Mac Mini M4 because I live half in Paris and half in Florida and I need a server that runs in Paris while I am away. I have a NAS because I shoot in ProRes and the files are big. I have two MacBook Pros coming because the Villa Albertine residency at the CENTQUATRE in Paris will be co-led with three other artists who need access to compute. I have an RTX 5090 because the RTX 4090 was not enough for the kinds of generative pipelines I run.
+This is not a recommendation. I am writing about my own practice, in my own conditions, with my own constraints. I have a Mac Mini M4 because I live half in Paris and half in Florida and I need a server that runs in Paris while I am away. I have a NAS because I shoot in ProRes and the files are big. I have two MacBook Pro M5 Max (released by Apple in March 2026) because the Villa Albertine residency at the CENTQUATRE in Paris, starting September 2026, will be co-led with three other artists who need access to compute. I have an RTX 5090 because the RTX 4090 was not enough for the kinds of generative pipelines I run. The Mac Studio M5 Ultra, when it ships in October 2026, is a candidate for upgrading the server role at the Paris hub.
 
 The architecture is sized to the practice. The principles travel, the hardware doesn't.
 
@@ -230,7 +230,7 @@ This is the only definition of artistic freedom I have found that is not a sloga
 
 ### Next entries
 
-This document is the first entry in what I expect to be an ongoing journal. The architecture will change. The Strada test with my collaborators at Films Grand Huit will succeed or fail in ways I cannot predict. The MacBook Pro M5 Max may ship in Q3 2026, or it may slip. The CNC may fund the next phase of *The Goldberg Variations* in June 2026, or it may not. The residency at CENTQUATRE in September 2026 will pressure-test the multi-user architecture in ways that no amount of solo design can anticipate.
+This document is the first entry in what I expect to be an ongoing journal. The architecture will change. The Strada test with my collaborators at Films Grand Huit will succeed or fail in ways I cannot predict. The Mac Studio M5 Ultra may ship in October 2026 as expected, or it may slip again due to ongoing RAM shortages. The CNC may fund the next phase of *The Goldberg Variations* in June 2026, or it may not. The residency at CENTQUATRE in September 2026 will pressure-test the multi-user architecture in ways that no amount of solo design can anticipate.
 
 I will write the entries as the practice teaches me what was wrong about this document and what was right.
 
