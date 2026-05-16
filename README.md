@@ -40,6 +40,7 @@ This repo brings together three things:
 | [Post-documentary](position/post-documentary.md) | Films that start from real events but treat the boundary between document and fabrication as the subject itself |
 | [Post-photography](position/post-photography.md) | The image after the camera |
 | [Sovereignty](position/souverainete.md) | Data sovereignty as artistic position, not technical preference |
+| [You Are Your Own Cloud](position/your-own-cloud.md) | Building a sovereign post-production studio, after Cioni — local-first beyond AI inference |
 | [On Sycophancy](position/sycophancy.md) | Why AI agreement is more dangerous than AI error |
 | [Tripartite](position/tripartite.md) | Three image regimes: documentary, generative, hybrid |
 | [Verbatim](position/verbatim.md) | The value of raw transcript over summary |
@@ -84,6 +85,8 @@ AI methods documented from active film production. Organized by function, not by
 | [Voice Direction](research/methods/voice-direction.md) | AI voice repair for documentary subjects |
 | [Image Upscaling](research/methods/image-upscaling.md) | Cinema-grade upscaling pipeline |
 | [LLM Corpus Avatar](research/methods/llm-corpus-avatar.md) | Build an AI avatar from a subject's written corpus |
+| [Local-First Studio Workflow](research/methods/local-first-studio-workflow.md) | NAS as storage, Mac Mini as server, Strada as P2P protocol — the architecture documented |
+| [Strada and Alternatives Benchmark](research/methods/strada-alternatives-benchmark.md) | Comparative reading of remote post-production tools, storage solutions, and open source options |
 
 ### Projects
 
