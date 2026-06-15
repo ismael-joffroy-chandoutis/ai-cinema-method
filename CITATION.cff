@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use or cite this work, please credit it as below."
+title: "ai-cinema-method"
+abstract: "AI as artistic method — position, research, and memory architecture from a filmmaker working across cinema, art, and AI."
+type: dataset
+authors:
+  - given-names: "Ismaël"
+    family-names: "Joffroy Chandoutis"
+    website: "https://github.com/12georgiadis"
+repository-code: "https://github.com/12georgiadis/ai-cinema-method"
+url: "https://github.com/12georgiadis/ai-cinema-method"
+license: CC-BY-NC-ND-4.0
