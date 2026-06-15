@@ -12,9 +12,9 @@ This essay continues an argument the repository has been making in pieces. [The 
 
 For about two years the default way to turn a model into a business was the wrapper. Take a frontier model behind an API, write a system prompt that performs the role of some expert, wrap it in a clean interface, charge a monthly fee. Call it software. A great deal of what gets sold today as an "AI tool" is, underneath, this: a prompt, a few output templates, and a subscription on top of someone else's model, billed per call.
 
-I want to be precise rather than sneering, because the observation is structural, not personal. The architecture is thin in a specific, checkable way. The expensive part, the reasoning, is rented from a lab. The thin part, the prompt and the rules, is the product. And the thin part is now cheap to reconstruct. A capable agent can drive such a tool, watch its inputs and outputs, infer the rules, and rebuild an equivalent in an afternoon, running inside an ordinary subscription instead of paying per call. When the moat around a product is a prompt, the moat is gone. This is not a threat anyone needs to make. It is just what the cost curve already did.
+I want to be precise rather than sneering, because the observation is structural, not personal. The architecture is thin in a specific, checkable way. The expensive part, the reasoning, is rented from a lab. The thin part, the prompt and the rules, is the product. When the only thing standing between a user and the underlying model is a prompt and a template, the defensible moat is thin, and the subscription is mostly buying convenience rather than capability. This is not a call to copy anyone, and the most elaborate pipelines are genuinely hard to reproduce. It is a narrower point about the large middle of the market, where the wrapper is most of the product and the cost curve has quietly made that position fragile.
 
-So the question stops being "is this AI tool good" and becomes "what, exactly, am I paying a subscription to protect." For a narrow, stable, shared need, the answer can still be real: a maintained pipeline, a guarantee, a place to put the blame. For singular creative work it is usually nothing. The interface flatters you into thinking someone understood your problem. No one did. They could not have.
+So the question stops being "is this AI tool good" and becomes "what, exactly, am I paying a subscription to protect." For a narrow, stable, shared need, the answer can still be real: a maintained pipeline, a guarantee, a place to put the blame. For singular creative work it is usually nothing. The interface can make it feel as though someone anticipated your problem. For shared problems, someone did. For singular ones, the need did not exist in a fixed form when the product was frozen, so it could not have been built in advance.
 
 ---
 
@@ -26,6 +26,8 @@ The need to make a particular film is not. A practice that mixes documentary, fi
 
 The alternative is older than software. It is the bespoke object, cut to measure, remade when the measurements change. What collapsed recently is the cost of cutting. Building a small, exact tool for one project, one sequence, one problem, used to require an engineer and a budget. Now the reasoning to build it is rentable by the hour and the building itself is fast. The economics that once forced everyone into ready-to-wear have inverted. Made to measure is, for the first time, the cheaper honest option for work that is genuinely singular.
 
+Made to measure does not mean built from nothing, and it does not mean disposable. The sane version sits on shared foundations: open, industrial bases that already exist, a node graph, an editing suite, a rendering stack, with bespoke layers added on top, custom nodes, scripts, small interfaces, cut to the project. That is the honest middle the slogans miss, and it answers two real objections at once. It keeps you on substrates you can own rather than on one vendor's sealed appliance, and it keeps the bespoke layer documented enough to reopen, because a tool you cannot reopen for a remaster two years later is not an asset, it is a debt. The cost of that layer is real. The claim is only that it is now lower than the cost of forcing singular work through a frozen feature set.
+
 ---
 
 ### A studio, not a product
@@ -34,7 +36,7 @@ If tools should be cut to the shape of each project, then the entity that makes 
 
 What survives is a studio that treats tool-building as part of the direction. In that model the artistic direction decides the architecture of the workflow, because the workflow *is* part of the form, and the cost follows from the direction rather than the direction bending to the cost. Such a studio can sit beside a film as a research-and-development coproducer, building the bespoke apparatus a given project needs, without becoming the main producer, because product ownership is not the point. The deliverable is not a piece of software anyone can reuse. The deliverable is a film, and a method that the next film will partly discard.
 
-This is the opposite of the platform instinct, and it accepts the platform instinct's price. Bespoke does not scale the way a subscription scales, by design. It is the boutique against the fast fashion. The bet is that for the kind of work worth doing, the boutique is not a nostalgia, it is the only thing that does not produce slop.
+This is the opposite of the platform instinct, and it accepts the platform instinct's price. Bespoke does not scale the way a subscription scales, by design. It is the boutique against the fast fashion. The bet is that for the kind of work worth doing, the boutique is not a nostalgia, it is the only thing that does not flatten its subject.
 
 ---
 
