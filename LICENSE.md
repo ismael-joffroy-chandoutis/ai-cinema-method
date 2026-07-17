@@ -1,24 +1,22 @@
-Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
-(CC BY-NC-ND 4.0)
+Creative Commons Attribution-ShareAlike 4.0 International
+(CC BY-SA 4.0)
 
-© Ismaël Joffroy Chandoutis
+Copyright (c) 2026 Ismaël Joffroy Chandoutis
 
-Full legal text: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
-Summary: https://creativecommons.org/licenses/by-nc-nd/4.0/
+Full legal text: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+Summary: https://creativecommons.org/licenses/by-sa/4.0/
 
 You are free to:
 - Share: copy and redistribute the material in any medium or format.
+- Adapt: remix, transform, and build upon the material for any purpose, even
+  commercially.
 
 Under the following terms:
 - Attribution: You must give appropriate credit (name the author, link to the
-  source, link to this license), and indicate if any changes were made.
-- NonCommercial: You may not use the material for commercial purposes.
-- NoDerivatives: If you remix, transform, or build upon the material, you may
-  not distribute the modified material.
+  source, link to this license), and indicate if changes were made.
+- ShareAlike: If you remix, transform, or build upon the material, you must
+  distribute your contributions under the same license as the original.
 
-Note: Quotation and citation for research, commentary, criticism, teaching, and
-news reporting remain permitted, as recognized by applicable copyright law. This
-license does not restrict those uses.
-
-For commercial use, translation, adaptation, or any use beyond the terms above:
-please contact the author.
+No additional restrictions: You may not apply legal terms or technological
+measures that legally restrict others from doing anything the license
+permits.

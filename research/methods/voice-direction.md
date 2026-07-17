@@ -125,4 +125,4 @@ For documentary work involving real people: verify the ToS of any cloud platform
 ## Technical documentation
 
 Full toolkit with installation instructions and code:
-→ [cinema-voice-pipeline](https://github.com/12georgiadis/cinema-voice-pipeline)
+→ [cinema-voice-pipeline](https://github.com/ismael-joffroy-chandoutis/cinema-voice-pipeline)

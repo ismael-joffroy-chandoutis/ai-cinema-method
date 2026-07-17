@@ -117,4 +117,4 @@ Living document. Updated as the films progress and the methods evolve.
 
 ---
 
-**Consolidated from:** [method](https://github.com/12georgiadis/method) · [the-filesystem-is-the-memory](https://github.com/12georgiadis/the-filesystem-is-the-memory) · [ai-cinema-research](https://github.com/12georgiadis/ai-cinema-research)
+**Consolidated from:** [method](https://github.com/ismael-joffroy-chandoutis/method) · [the-filesystem-is-the-memory](https://github.com/ismael-joffroy-chandoutis/the-filesystem-is-the-memory) · [ai-cinema-research](https://github.com/ismael-joffroy-chandoutis/ai-cinema-research)
