@@ -62,7 +62,7 @@ The hard problem in working with AI on long-form projects: **the model has no me
 |----------|-------------------|
 | [The Filesystem is the Memory](memory/the-filesystem-is-the-memory.md) | Context engineering for a two-year documentary project. How the filesystem becomes the memory architecture for a stateless AI. |
 
-Key insight: your `CLAUDE.md` is not a config file — it's a persistent instruction layer. Your `memory/` directory is not a folder — it's a surrogate for what the model cannot retain. Your session backups are not archives — they're the only source of truth.
+Key insight: your standing-instructions file is not a config file, it's a persistent instruction layer. Your `memory/` directory is not a folder, it's a surrogate for what the model cannot retain. Your session backups are not archives, they're the only source of truth.
 
 ---
 
@@ -97,15 +97,15 @@ Films and installations where these methods were developed.
 | [Nemo](research/projects/nemo-biennale-2023.md) | Installation, Biennale Nemo | 2023 |
 | [Ciclic Residency](research/projects/vendome-residency-2024.md) | R&D residency, Ciclic Animation, Vendôme | 2024 |
 | [Virus](research/projects/virus-2024.md) | Feature documentary (in production) | 2024— |
-| [Palimpseste mémoriel](research/projects/palimpseste-1972.md) | Visual research, family archive LoRA | Ongoing |
+| [Memorial Palimpsest](research/projects/palimpseste-1972.md) | Visual research, family archive LoRA | Ongoing |
 | [Farming Farocki](research/projects/farming-faroki.md) | Film / installation (in development) | In dev |
 
 ### Essays
 
 | Essay | Topic |
 |-------|-------|
-| [L'IA et l'artiste : cadre critique](research/essays/ia-artiste-cadre-critique.md) | Critical framework for AI in artistic practice |
-| [Dissolution des frontières médiatiques](research/essays/ia-dissolution-frontieres-mediatiques.md) | How AI dissolves the boundary between media |
+| [AI and the Artist: A Critical Framework](research/essays/ia-artiste-cadre-critique.md) | Critical framework for AI in artistic practice |
+| [Dissolution of Media Boundaries](research/essays/ia-dissolution-frontieres-mediatiques.md) | How AI dissolves the boundary between media |
 
 ---
 
