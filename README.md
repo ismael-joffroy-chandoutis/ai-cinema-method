@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="header-banner.jpg" alt="AI Cinema Method" width="100%"/>
-</p>
+<img src="banner.svg" alt="AI Cinema Method" width="100%">
 
 # AI Cinema Method
 
