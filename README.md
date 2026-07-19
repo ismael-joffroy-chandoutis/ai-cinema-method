@@ -2,7 +2,7 @@
 
 # AI Cinema Method
 
-**AI as artistic method — position, research, and memory architecture from a filmmaker working across cinema, contemporary art, and AI.**
+**AI as artistic method: position, research, and memory architecture from a filmmaker working across cinema, contemporary art, and AI.**
 
 <img src="monde.jpg" alt="ai-cinema-method" width="100%">
 
@@ -14,25 +14,25 @@
 
 ## Author
 
-[Ismaël Joffroy Chandoutis](https://ismaeljoffroychandoutis.com) — filmmaker and artist based in Paris. **César 2022**, Cannes (Semaine de la Critique), IDFA, Hot Docs, Ars Electronica. Currently developing *The Goldberg Variations* (Villa Albertine 2026) and *Virus*.
+[Ismaël Joffroy Chandoutis](https://ismaeljoffroychandoutis.com): filmmaker and artist based in Paris. **César 2022**, Cannes (Semaine de la Critique), IDFA, Hot Docs, Ars Electronica. Currently developing *The Goldberg Variations* (Villa Albertine 2026) and *Virus*.
 
 ---
 
 ## What this is
 
-Notes on practice, not a manifesto. How and why I work with machines — and why "with" is already the wrong word.
+Notes on practice, not a manifesto. How and why I work with machines, and why "with" is already the wrong word.
 
 This repo brings together three things:
 
-1. **Position** — essays on the artistic practice: liquid writing, post-documentary, sovereignty, AI as subject
-2. **Memory** — the architecture problem: how to sustain a two-year documentary project with a stateless AI
-3. **Research** — methods and projects: spatial reconstruction, LoRA training, generative pipelines, tested on real films
+1. **Position**: essays on the artistic practice: liquid writing, post-documentary, sovereignty, AI as subject
+2. **Memory**: the architecture problem: how to sustain a two-year documentary project with a stateless AI
+3. **Research**: methods and projects: spatial reconstruction, LoRA training, generative pipelines, tested on real films
 
 ---
 
 ## Position
 
-**Alteration over augmentation.** I don't use AI to do things faster. I use it to displace my own thinking — to find connections I would miss alone. The goal is not optimization. The goal is displacement.
+**Alteration over augmentation.** I don't use AI to do things faster. I use it to displace my own thinking: to find connections I would miss alone. The goal is not optimization. The goal is displacement.
 
 | Essay | Topic |
 |-------|-------|
@@ -40,7 +40,7 @@ This repo brings together three things:
 | [Post-documentary](position/post-documentary.md) | Films that start from real events but treat the boundary between document and fabrication as the subject itself |
 | [Post-photography](position/post-photography.md) | The image after the camera |
 | [Sovereignty](position/souverainete.md) | Data sovereignty as artistic position, not technical preference |
-| [You Are Your Own Cloud](position/your-own-cloud.md) | Building a sovereign post-production studio, after Cioni — local-first beyond AI inference |
+| [You Are Your Own Cloud](position/your-own-cloud.md) | Building a sovereign post-production studio, after Cioni: local-first beyond AI inference |
 | [The Rented Mind](position/the-rented-mind.md) | The reasoning layer is the one part of the studio you cannot yet own: own the hands, rent the mind, route by capability and by sensitivity |
 | [Made to Measure](position/made-to-measure.md) | Bespoke tools against off-the-rack software: why generative AI is a new medium, not an automation of cinema, and why the work wants something cut to its own measure |
 | [On Sycophancy](position/sycophancy.md) | Why AI agreement is more dangerous than AI error |
@@ -71,7 +71,7 @@ Key insight: your standing-instructions file is not a config file, it's a persis
 
 ## Research
 
-AI methods documented from active film production. Organized by function, not by tool — tools change every six months, the underlying questions don't.
+AI methods documented from active film production. Organized by function, not by tool: tools change every six months, the underlying questions don't.
 
 ### Methods
 
@@ -87,7 +87,7 @@ AI methods documented from active film production. Organized by function, not by
 | [Voice Direction](research/methods/voice-direction.md) | AI voice repair for documentary subjects |
 | [Image Upscaling](research/methods/image-upscaling.md) | Cinema-grade upscaling pipeline |
 | [LLM Corpus Avatar](research/methods/llm-corpus-avatar.md) | Build an AI avatar from a subject's written corpus |
-| [Local-First Studio Workflow](research/methods/local-first-studio-workflow.md) | NAS as storage, Mac Mini as server, Strada as P2P protocol — the architecture documented |
+| [Local-First Studio Workflow](research/methods/local-first-studio-workflow.md) | NAS as storage, Mac Mini as server, Strada as P2P protocol: the architecture documented |
 | [Strada and Alternatives Benchmark](research/methods/strada-alternatives-benchmark.md) | Comparative reading of remote post-production tools, storage solutions, and open source options |
 
 ### Projects
@@ -99,7 +99,7 @@ Films and installations where these methods were developed.
 | [DamasIA](research/projects/damasIA-2023.md) | Live performance, ARTE / Gaîté Lyrique | 2023 |
 | [Nemo](research/projects/nemo-biennale-2023.md) | Installation, Biennale Nemo | 2023 |
 | [Ciclic Residency](research/projects/vendome-residency-2024.md) | R&D residency, Ciclic Animation, Vendôme | 2024 |
-| [Virus](research/projects/virus-2024.md) | Feature documentary (in production) | 2024— |
+| [Virus](research/projects/virus-2024.md) | Feature documentary (in production) | 2024- |
 | [Memorial Palimpsest](research/projects/palimpseste-1972.md) | Visual research, family archive LoRA | Ongoing |
 | [Farming Farocki](research/projects/farming-faroki.md) | Film / installation (in development) | In dev |
 
