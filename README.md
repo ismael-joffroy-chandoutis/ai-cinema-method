@@ -82,7 +82,7 @@ AI methods documented from active film production. Organized by function, not by
 | [Blender → ComfyUI Real-Time](research/methods/blender-comfyui-realtime.md) | Drive diffusion from live 3D animation |
 | [Custom Model Fine-Tuning](research/methods/lora-custom-training.md) | Train location- or character-specific image models |
 | [Cinematic Still Image](research/methods/sd-cinematic-image.md) | Generate stills in the register of documentary photography |
-| [Latent Drift Animation](research/methods/latent-drift-animation.md) | Animate through latent space for oniric sequences |
+| [Latent Drift Animation](research/methods/latent-drift-animation.md) | Animate through latent space for oneiric sequences |
 | [Archive Animation](research/methods/animation-archives.md) | Give motion to archival photographs and footage |
 | [Voice Direction](research/methods/voice-direction.md) | AI voice repair for documentary subjects |
 | [Image Upscaling](research/methods/image-upscaling.md) | Cinema-grade upscaling pipeline |
@@ -101,7 +101,7 @@ Films and installations where these methods were developed.
 | [Ciclic Residency](research/projects/vendome-residency-2024.md) | R&D residency, Ciclic Animation, Vendôme | 2024 |
 | [Virus](research/projects/virus-2024.md) | Feature documentary (in production) | 2024- |
 | [Memorial Palimpsest](research/projects/palimpseste-1972.md) | Visual research, family archive LoRA | Ongoing |
-| [Farming Farocki](research/projects/farming-faroki.md) | Film / installation (in development) | In dev |
+| [Farming Farocki](research/projects/farming-farocki.md) | Film / installation (in development) | In dev |
 
 ### Essays
 
