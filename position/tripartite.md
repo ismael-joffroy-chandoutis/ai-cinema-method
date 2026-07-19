@@ -56,4 +56,4 @@ Treating AI as a third collaborator rather than a tool changes three things:
 
 ---
 
-[Back to Method](README.md)
+[Back to Method](../README.md)

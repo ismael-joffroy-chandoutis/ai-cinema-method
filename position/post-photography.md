@@ -68,4 +68,4 @@ This is a genuinely new kind of image. Not a photograph (no light, no lens, no m
 
 ---
 
-[Back to Method](README.md)
+[Back to Method](../README.md)

@@ -80,4 +80,4 @@ It's not deepfake. Deepfakes aim to deceive -- to produce images that pass as un
 
 ---
 
-[Back to Method](README.md)
+[Back to Method](../README.md)

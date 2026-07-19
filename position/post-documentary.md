@@ -74,4 +74,4 @@ This is not abstraction. The specific, the particular, the individual remain at 
 
 ---
 
-[Back to Method](README.md)
+[Back to Method](../README.md)

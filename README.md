@@ -42,6 +42,7 @@ This repo brings together three things:
 | [Sovereignty](position/souverainete.md) | Data sovereignty as artistic position, not technical preference |
 | [You Are Your Own Cloud](position/your-own-cloud.md) | Building a sovereign post-production studio, after Cioni — local-first beyond AI inference |
 | [The Rented Mind](position/the-rented-mind.md) | The reasoning layer is the one part of the studio you cannot yet own: own the hands, rent the mind, route by capability and by sensitivity |
+| [Made to Measure](position/made-to-measure.md) | Bespoke tools against off-the-rack software: why generative AI is a new medium, not an automation of cinema, and why the work wants something cut to its own measure |
 | [On Sycophancy](position/sycophancy.md) | Why AI agreement is more dangerous than AI error |
 | [Tripartite](position/tripartite.md) | Three image regimes: documentary, generative, hybrid |
 | [Verbatim](position/verbatim.md) | The value of raw transcript over summary |

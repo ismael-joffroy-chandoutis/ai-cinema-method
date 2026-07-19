@@ -58,4 +58,4 @@ The most urgent task for AI cinema is not to make better images. It's to make im
 
 ---
 
-[Back to Method](README.md)
+[Back to Method](../README.md)
