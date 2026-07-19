@@ -4,6 +4,8 @@
 
 **AI as artistic method — position, research, and memory architecture from a filmmaker working across cinema, contemporary art, and AI.**
 
+<img src="monde.jpg" alt="ai-cinema-method" width="100%">
+
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 ![Post-documentary](https://img.shields.io/badge/Post--documentary-cinema-cc0000?style=flat-square)
 ![AI Art](https://img.shields.io/badge/AI-as_subject-blueviolet?style=flat-square)
